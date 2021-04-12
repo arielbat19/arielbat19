@@ -11,7 +11,7 @@ Me chamo Ariel Batista, tenho 20 anos de idade, morador da cidade de Curitiba. S
 
  Análise e Desenvolvimento de Sistemas (Uniopet - Situação: cursando.)
 
-## Ferramentas
+## Tecnologias, Linguagens, Ferramentas
 
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 
