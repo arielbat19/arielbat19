@@ -5,7 +5,7 @@
 
 ## Quem sou eu ?
 
-Me chamo Ariel Batista, tenho 20 anos de idade, morador da cidade de Curitiba. Sou estudante e apaixonado por tecnologia, atualmente curso Análise e Desenvolvimento de Sistemas e atuo profissionalmente como desenvolvedor Java. Pretendo assim que terminar minha graduação ingressar em uma pós-graduação em Engenharia de Software.
+Me chamo Ariel Batista, tenho 20 anos de idade, morador da cidade de Curitiba. Sou estudante e apaixonado por tecnologia, atualmente curso Análise e Desenvolvimento de Sistemas e atuo profissionalmente como desenvolvedor Java. Sou um profissional que possui conhecimentos básicos de java (Swing, POO, Java Web, Hibernate...), mas que está estudando e buscando mais conhecimento para se tornar um grande Dev. Pretendo assim que terminar minha graduação ingressar em uma pós-graduação em Engenharia de Software.
 
 ## Educação
 
@@ -18,6 +18,7 @@ Me chamo Ariel Batista, tenho 20 anos de idade, morador da cidade de Curitiba. S
 ## O que faço atualmente:
 
     - Trabalho como Desenvolvedor Java Trainee na Foursys.
+    - Aprofundando conhecimentos em Java.
 
 ## Contatos
 
