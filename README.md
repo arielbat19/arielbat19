@@ -15,7 +15,7 @@ Me chamo Ariel Batista, tenho 20 anos de idade, morador da cidade de Curitiba. S
 
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 
-## O que faço atualmente:
+## O que faço atualmente
 
     - Trabalho como Desenvolvedor Java Trainee na Foursys.
     - Aprofundando conhecimentos em Java.
