@@ -9,7 +9,7 @@ Me chamo Ariel Batista, tenho 20 anos de idade, morador da cidade de Curitiba. S
 
 ## Educação
 
-Análise e Desenvolvimento de Sistemas (Uniopet - Situação: cursando.)
+ Análise e Desenvolvimento de Sistemas (Uniopet - Situação: cursando.)
 
 ## Ferramentas
 
@@ -18,6 +18,10 @@ Análise e Desenvolvimento de Sistemas (Uniopet - Situação: cursando.)
 ## O que faço atualmente:
 
     - Trabalho como Desenvolvedor Java Trainee na Foursys.
+
+## Contatos
+
+    (41) 99521-9923 | arielbatista853@gmail.com
 
 ## Meu Status no Github
 
